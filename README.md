@@ -6,7 +6,7 @@ In this lab, you'll practice building nested forms in Sinatra for creating teams
 
 ## Instructions
 
-### Make a form
+### Make a formd
 
 1. Create a route that responds to a GET request at `/`.
 2. Create a view with a form and render it in the GET `/` route.
@@ -17,7 +17,7 @@ It should look something like this:
 
 ![super_hero.erb](http://i.imgur.com/Ws3nCIC.png)
 
-### Handle form submission
+### Handle form submissigon
 
 1. Create a route that responds to a POST request at `/teams`.
 2. Have the form send a POST request to this route.
